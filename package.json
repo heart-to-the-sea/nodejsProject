@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "nodemon -w ./src/ ./src/main.ts"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.6",
+    "@types/nodemon": "^1.19.1",
+    "@types/xml-js": "^1.0.0",
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4",
+    "xml-js": "^1.6.11"
+  }
+}
