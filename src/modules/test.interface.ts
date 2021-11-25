@@ -1,3 +1,3 @@
 export interface Test {
-    test:()=>void
+    test():void
 }
